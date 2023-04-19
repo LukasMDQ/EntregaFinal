@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6413092135256396211
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1250713301889562, guid: c6365ee2be5b27a4c8073e81391d8f03, type: 3}
+      propertyPath: m_Name
+      value: Grave_Cross_Celtic_1A1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4769337037721330, guid: c6365ee2be5b27a4c8073e81391d8f03, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4769337037721330, guid: c6365ee2be5b27a4c8073e81391d8f03, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 196.911
+      objectReference: {fileID: 0}
+    - target: {fileID: 4769337037721330, guid: c6365ee2be5b27a4c8073e81391d8f03, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 14.997253
+      objectReference: {fileID: 0}
+    - target: {fileID: 4769337037721330, guid: c6365ee2be5b27a4c8073e81391d8f03, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 288.99554
+      objectReference: {fileID: 0}
+    - target: {fileID: 4769337037721330, guid: c6365ee2be5b27a4c8073e81391d8f03, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4769337037721330, guid: c6365ee2be5b27a4c8073e81391d8f03, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4769337037721330, guid: c6365ee2be5b27a4c8073e81391d8f03, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4769337037721330, guid: c6365ee2be5b27a4c8073e81391d8f03, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c6365ee2be5b27a4c8073e81391d8f03, type: 3}
